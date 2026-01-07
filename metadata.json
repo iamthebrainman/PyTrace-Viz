@@ -1,0 +1,5 @@
+{
+  "name": "PyTrace Visualizer Pro",
+  "description": "A high-performance Python code visual walker capable of handling large codebases. It provides step-by-step execution visualization, variable state tracking, and AI-powered logic explanations.",
+  "requestFramePermissions": []
+}
